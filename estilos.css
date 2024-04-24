@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#usuarios-lista {
+    list-style: none;
+    padding: 0;
+}
+
+#usuarios-lista li {
+    margin-bottom: 10px;
+}
